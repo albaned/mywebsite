@@ -22,6 +22,9 @@ permalink: "cat1/contact"
 <p>You can find the source code for Jekyll at GitHub:
 <a href="https://github.com/jekyll">jekyll</a> /
 <a href="https://github.com/jekyll/jekyll">jekyll</a></p>
+<p>You can find the source code for Jekyll at GitHub:
+<a href="https://github.com/jekyll">jekyll</a> /
+<a href="https://github.com/jekyll/jekyll">jekyll</a></p>
 
 
   </div>
