@@ -44,7 +44,7 @@ categories: jekyll update
             		</div>
             	</div>
             	<div class="col-md-6" >
-            		<div class="bordered-content ">
+            		<div class="bordered-content foto">
             		<img src="{{site.baseurl}}/img/img-2.jpg">
             		</div>
             	</div>
